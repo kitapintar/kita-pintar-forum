@@ -3,11 +3,11 @@
 Kita pintar adalah sebuah forum berbasis laravel dan mysql dimana user bisa bertanya dan mengajukan pertanyaan serta bisa menjawab pertanyaan.
 
 ## Nama Kelompok:
-1. asdasdas
-2. asdasdhas
-3. adasdasd
-4. asdasd
-5. asdasd
+1. Apriliaosa Fani - 2057201005
+2. Vikha Handayani - 2057201031
+3. Prida Angelina -2057201008
+4. Restu Yulia -2057201003
+5. Suci Mandasari - 2057201019
 
 ## Link video:
 
