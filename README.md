@@ -34,6 +34,8 @@ Instalasi Blade ui Kit
 composer require blade-ui-kit/blade-ui-kit
 ```
 
+
+
 Instalasi blade hero icon
 
 ```bash
@@ -80,3 +82,31 @@ Lalu jalankan aplikasi
 ```
 php artisan serve
 ```
+
+
+## Fitur
+    Register dan Login auth mengunakan laravel fortify lib dari laravel yang mengatur auth login serta konfirmasi akun mengunakan email smpt dari gmail(limit)
+
+    terdapat 3 role
+    1. Admin dpat mengakses dashboard dan menambahkan tag serta kategori dari postingan
+    2. Moderator dapat menghapus komentar dan postingan yang tidak pantas.
+    3. User dapat mengposting dan mengahpus komentarnya sendiri.
+
+    - fitur yang terdapat di aplikasi ini mengunakan register dan login dari fortify
+    - untuk tampilanya kami mengunakan ui-blade-kit dan icon-hero dari lib laravel
+      mengunakan ck editor
+    - Mengunakan equloment model
+    
+ ## alur baliknya
+    User melakukann registersasi
+    User melakukan postingan
+    User lain dapat membalas postingan
+    User yang menposting dapat menghapus komentar tidak pantas
+    Admin dan Moderator dapat menghapus postingan user dan komentar user yang tidak pantas
+    Admin dapat menghapus dan menambahkan TAG dan Kategori
+
+## ERD
+    Berikut link erdnya
+    ```
+    
+    ```
