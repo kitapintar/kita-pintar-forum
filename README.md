@@ -108,7 +108,7 @@ php artisan serve
 ## ERD
     Berikut link erdnya
     ```
-    https://github.com/kitapintar/kita-pintar-forum/blob/main/erd-forum-kitapintar.png
+    [[https://github.com/kitapintar/kita-pintar-forum/blob/main/erd-forum-kitapintar.png](https://drive.google.com/file/d/1EWZYgE_38POrNGNaki0HbIf-8qRwwaY-/view?usp=share_link)](https://drive.google.com/file/d/1EWZYgE_38POrNGNaki0HbIf-8qRwwaY-/view?usp=share_link)
     ```
 
 # user login
