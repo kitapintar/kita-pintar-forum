@@ -108,5 +108,34 @@ php artisan serve
 ## ERD
     Berikut link erdnya
     ```
-    
+    https://github.com/kitapintar/kita-pintar-forum/blob/main/erd-forum-kitapintar.png
     ```
+
+# user login
+
+```
+Email: admin@kitapintar.com
+PASS:  password
+ROLE:   super admin
+
+Email: ocha@kitapintar.com
+PASS:  password
+ROLE:   super admin
+
+Email: vika@kitapintar.com
+PASS:  password
+ROLE:   moderator
+
+Email: prida@kitapintar.com
+PASS:  password
+ROLE:   moderator
+
+Email: restu@kitapintar.com
+PASS:  password
+ROLE:  user-normal
+
+Email: suci@kitapintar.com
+PASS:  password
+ROLE:   user-normal
+```
+
